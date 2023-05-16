@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/User/Documents/Unreal Projects/WareHouse/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/User/Documents/Unreal Projects/WareHouse/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/User/Documents/Unreal Projects/WareHouse/Content/StarterContent/Maps/Untitled.umap",
+				"C:/Users/User/Documents/Unreal Projects/WareHouse/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"C:/Users/User/Documents/Unreal Projects/WareHouse/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/User/Documents/Unreal Projects/WareHouse/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/User/Documents/Unreal Projects/WareHouse/Content/MainMap.umap",
+				"C:/Users/User/Documents/Unreal Projects/WareHouse/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/User/Documents/Unreal Projects/WareHouse/Content/BP_Barrel.uasset",
+				"C:/Users/User/Documents/Unreal Projects/WareHouse/Content/BP_Projectile.uasset"
+			]
+		}
+	]
+}
