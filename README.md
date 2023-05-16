@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------------------------------------------------------------
-My Unreal Engine repository is a collection of Unreal programs from gameDev.tv Unreal Engine, c++ courses
+My Unreal Engine repository GameDev.tv
 -----------------------------------------------------------------------------------------------------------------------------
 
  Alejandro Ricciardi (Omegapy)  
