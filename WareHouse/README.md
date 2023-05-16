@@ -11,17 +11,16 @@ Requirements:
 Unreal Engine 4 or 5 
 
 -----------------------------------------------------------------------------------------------------------------------------
-Project description:
+Project description:  
 First game using physics simulation in Unreal. Fundamental concepts of Unreal and start to program in Blueprint.
 
-Project Plan:
-  Playing with Physics
-  Spawning projectiles
-  Aiming the projectile
-  Building a level
-  Limiting ammo
-  Reloading levels 
-
+Project Plan:  
+  - Playing with Physics  
+  - Spawning projectiles  
+  - Aiming the projectile  
+  - Building a level  
+  - Limiting ammo  
+  - Reloading levels  
 
 -----------------------------------------------------------------------------------------------------------------------------
 Credits:
