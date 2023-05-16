@@ -32,7 +32,7 @@ https://www.gamedev.tv/courses/
 
 Links:  
 GitHub: https://github.com/Omegapy  
-YouTube: https://www.youtube.com/@omegapy
+YouTube: https://www.youtube.com/@omegapy  
 Facebook: https://www.facebook.com/profile.php?id=100089638857137  
 Twitter: https://twitter.com/RicciardiAlex
 
