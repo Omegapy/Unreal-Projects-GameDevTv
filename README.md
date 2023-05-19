@@ -12,8 +12,10 @@ Requirements:
 Unreal Engine 4 and later  
 c++  
 <p align="left">
-<img width="75" height="75" src="https://user-images.githubusercontent.com/121726699/215234958-2659b12a-4181-4f6b-a757-3e868244192e.png">
+<img width="150" height="84" src="https://github.com/Omegapy/Unreal-Projects-GameDevTv/assets/121726699/134121b7-5085-4e5d-b7f2-b6ddfc42f287">
+ <img width="50" height="50" src="https://user-images.githubusercontent.com/121726699/215234958-2659b12a-4181-4f6b-a757-3e868244192e.png">
 </p>
+
 -----------------------------------------------------------------------------------------------------------------------------
 Project description:
 
