@@ -33,25 +33,6 @@ GitHub: https://github.com/Omegapy
 Facebook: https://www.facebook.com/profile.php?id=100089638857137  
 Twitter: https://twitter.com/RicciardiAlex
 
-
------------------------------------------------------------------------------------------------------------------------------
-1-Warehouse Wreckage Section
------------------------------------------------------------------------------------------------------------------------------
-<p align="left">
-<img width="200" height="200" src="https://github.com/Omegapy/Unreal-Projects-GameDevTv/assets/121726699/11abcda0-c435-4149-a128-f76351b7911b">
-</p>
-
-Project description:  
-First game using physics simulation in Unreal. Fundamental concepts of Unreal and start to program in Blueprint.
-
-Project Plan:  
-  - Playing with Physics  
-  - Spawning projectiles  
-  - Aiming the projectile  
-  - Building a level  
-  - Limiting ammo  
-  - Reloading levels  
-
 -----------------------------------------------------------------------------------------------------------------------------
 2-Obstacle Assault Section
 -----------------------------------------------------------------------------------------------------------------------------
@@ -78,6 +59,25 @@ Learnt:
 - C++ compilation and Live Coding  
 - Linking Blueprint to C++  
 - Setting our own custom character class  
+-----------------------------------------------------------------------------------------------------------------------------
+1-Warehouse Wreckage Section
+-----------------------------------------------------------------------------------------------------------------------------
+<p align="left">
+<img width="200" height="200" src="https://github.com/Omegapy/Unreal-Projects-GameDevTv/assets/121726699/11abcda0-c435-4149-a128-f76351b7911b">
+</p>
+
+Project description:  
+First game using physics simulation in Unreal. Fundamental concepts of Unreal and start to program in Blueprint.
+
+Project Plan:  
+  - Playing with Physics  
+  - Spawning projectiles  
+  - Aiming the projectile  
+  - Building a level  
+  - Limiting ammo  
+  - Reloading levels  
+
+
 
 
 
