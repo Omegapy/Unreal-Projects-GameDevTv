@@ -31,7 +31,8 @@ Credits:
 Links:   
 GitHub: https://github.com/Omegapy   
 Facebook: https://www.facebook.com/profile.php?id=100089638857137  
-Twitter: https://twitter.com/RicciardiAlex
+Twitter: https://twitter.com/RicciardiAlex  
+Instagram: https://www.instagram.com/alexomegapy/
 
 -----------------------------------------------------------------------------------------------------------------------------
 2-Obstacle Assault Section
