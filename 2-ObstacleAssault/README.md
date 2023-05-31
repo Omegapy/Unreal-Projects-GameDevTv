@@ -44,7 +44,11 @@ Learnt:
 -----------------------------------------------------------------------------------------------------------------------------
 Credits:
 
-https://www.gamedev.tv/courses/
+Course: https://www.gamedev.tv/courses/  
+
+Character Stylized Character Kit: Casual 01: Rocket Art:  
+https://www.unrealengine.com/marketplace/en-US/profile/ROCKETARTS?count=20&sortBy=effectiveDate&sortDir=DESC&start=0
+
 
 -----------------------------------------------------------------------------------------------------------------------------
 

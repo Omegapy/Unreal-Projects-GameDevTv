@@ -35,6 +35,32 @@ Twitter: https://twitter.com/RicciardiAlex
 Instagram: https://www.instagram.com/alexomegapy/
 
 -----------------------------------------------------------------------------------------------------------------------------
+3-Crypt Raider Section
+-----------------------------------------------------------------------------------------------------------------------------
+
+Project description:  
+Utilizing c++ and blueprints to create a dungeon puzzel game.
+
+Project Plan:  
+- Create our level design (including lighting)  
+- Make a “Mover” component for our doors  
+- Make a “Grabber” component for the player  
+- Call the Grabber functionality from Blueprint  
+- Create a “Pressure Plate” component  
+- Tweak and polish.  
+
+Learnt:    
+- Pointers and References  
+- Actor Components and Scene Components  
+- Including header files  
+- Lighting with Lumen  
+- Modular level design  
+- Line Tracing and Collisions  
+- While, For Loops and Arrays  
+- Calling C++ functions from Blueprint  
+
+
+-----------------------------------------------------------------------------------------------------------------------------
 2-Obstacle Assault Section
 -----------------------------------------------------------------------------------------------------------------------------
 
