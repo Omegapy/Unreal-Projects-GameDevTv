@@ -22,9 +22,8 @@ Projects description:
 This repository is a collection of my Unreal Engine programs "assignments" from GameDev.tv (blueprint and c++)
 
 -----------------------------------------------------------------------------------------------------------------------------
-Credits:
 
-  https://www.gamedev.tv/
+Credits:  https://www.gamedev.tv/
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -39,7 +38,7 @@ Instagram: https://www.instagram.com/alexomegapy/
 -----------------------------------------------------------------------------------------------------------------------------
 
 <p align="left">
-<img width="450" height="300" src="https://github.com/Omegapy/Unreal-Projects-GameDevTv/assets/121726699/936e5aa7-4460-4919-845d-ad1a5362e93f">
+<img width="500" height="300" src="https://github.com/Omegapy/Unreal-Projects-GameDevTv/assets/121726699/936e5aa7-4460-4919-845d-ad1a5362e93f">
 </p>
 
 Project description:  
@@ -89,6 +88,11 @@ Learnt:
 - While, For Loops and Arrays  
 - Calling C++ functions from Blueprint  
 
+<p align="left">
+<img width="500" height="300" src="https://github.com/Omegapy/Unreal-Projects-GameDevTv/assets/121726699/958a81d0-141d-4d45-a119-3df3778459ce">
+</p>
+
+Youtube Game Preview: https://www.youtube.com/watch?v=HILQuKdiKYs&t=69s
 
 -----------------------------------------------------------------------------------------------------------------------------
 2-Obstacle Assault Section
