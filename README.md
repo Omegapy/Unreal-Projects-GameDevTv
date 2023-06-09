@@ -9,7 +9,7 @@ My Unreal Engine projects from GameDev.tv
 -----------------------------------------------------------------------------------------------------------------------------
 Requirements:  
 
-Unreal Engine 4 and later  
+Unreal Engine 4.26 and later  
 c++  
 <p align="left">
 <img width="150" height="84" src="https://github.com/Omegapy/Unreal-Projects-GameDevTv/assets/121726699/134121b7-5085-4e5d-b7f2-b6ddfc42f287">
@@ -17,7 +17,7 @@ c++
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------------
-Project description:
+Projects description:
 
 This repository is a collection of my Unreal Engine programs "assignments" from GameDev.tv (blueprint and c++)
 
@@ -33,6 +33,36 @@ GitHub: https://github.com/Omegapy
 Facebook: https://www.facebook.com/profile.php?id=100089638857137  
 Twitter: https://twitter.com/RicciardiAlex  
 Instagram: https://www.instagram.com/alexomegapy/
+
+-----------------------------------------------------------------------------------------------------------------------------
+4-Toon Tanks Section
+-----------------------------------------------------------------------------------------------------------------------------
+
+<p align="left">
+<img width="300" height="300" src="https://github.com/Omegapy/Unreal-Projects-GameDevTv/assets/121726699/86bce14b-e178-4793-8b8c-0f4790b8c19c">
+</p>
+
+Project description:  
+Utilizing c++ and blueprints to create a Toon Tank Game.
+
+Project Plan:  
+- Create a Tank that can move throughout the world  
+- Handle input (WASD movement, mouse clicks)  
+- Create an enemy Turret class  
+- Add fire functionality with projectiles  
+- Add health, damage, and destruction to the game  
+- Add special effects (smoke, explosions, sounds)  
+- Add winning/losing conditions with HUD displays    
+
+My extras:  
+- Added object destruction and Assetsville Town content  
+- Added target cursor  
+- Added Turret will not fire if an object is between it and the paw player (tank)  
+- Added health progress bar  
+- Added background noise and music  
+- Added in viewport Info
+
+Youtube Project Preview: https://www.youtube.com/watch?v=1McJ2rnIUjU&t=4s
 
 -----------------------------------------------------------------------------------------------------------------------------
 3-Crypt Raider Section
