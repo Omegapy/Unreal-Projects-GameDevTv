@@ -12,13 +12,13 @@ Unreal Engine 5.1
 c++  
 <p align="left">
 <img width="150" height="84" src="https://github.com/Omegapy/Unreal-Projects-GameDevTv/assets/121726699/134121b7-5085-4e5d-b7f2-b6ddfc42f287">
- <img width="50" height="50" src="https://user-images.githubusercontent.com/121726699/215234958-2659b12a-4181-4f6b-a757-3e868244192e.png">
+<img width="50" height="50" src="https://user-images.githubusercontent.com/121726699/215234958-2659b12a-4181-4f6b-a757-3e868244192e.png">
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------------
 
 <p align="left">
-<img width="300" height="300" src="https://github.com/Omegapy/Unreal-Projects-GameDevTv/assets/121726699/86bce14b-e178-4793-8b8c-0f4790b8c19c">
+<img width="450" height="300" src="https://github.com/Omegapy/Unreal-Projects-GameDevTv/assets/121726699/936e5aa7-4460-4919-845d-ad1a5362e93f">
 </p>
 
 Project description:  
@@ -56,15 +56,15 @@ Credits:
 
 Course: https://www.gamedev.tv/courses/  
 
-Content:
+Content:  
 Environment by Assetsville: https://assetsville.com/
 Tank and Towers: https://www.gamedev.tv
 
-Fonts:
+Fonts:  
 Monocoque by Tokokoo: https://www.dafont.com/monocoque.font  
 AltoneTrial by Eko Bimantara: https://www.dafont.com/altone.font  
 
-Music:
+Music:  
 Happy by Paul Yudin: https://pixabay.com/music/happy-childrens-tunes-happy-114950/  
 
 
