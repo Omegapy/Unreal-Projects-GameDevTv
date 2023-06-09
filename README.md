@@ -39,7 +39,7 @@ Instagram: https://www.instagram.com/alexomegapy/
 -----------------------------------------------------------------------------------------------------------------------------
 
 <p align="left">
-<img width="300" height="300" src="https://github.com/Omegapy/Unreal-Projects-GameDevTv/assets/121726699/86bce14b-e178-4793-8b8c-0f4790b8c19c">
+<img width="450" height="300" src="https://github.com/Omegapy/Unreal-Projects-GameDevTv/assets/121726699/936e5aa7-4460-4919-845d-ad1a5362e93f">
 </p>
 
 Project description:  
@@ -116,7 +116,8 @@ Learnt:
 - C++ code structure  
 - C++ compilation and Live Coding  
 - Linking Blueprint to C++  
-- Setting our own custom character class  
+- Setting our own custom character class
+  
 -----------------------------------------------------------------------------------------------------------------------------
 1-Warehouse Wreckage Section
 -----------------------------------------------------------------------------------------------------------------------------
