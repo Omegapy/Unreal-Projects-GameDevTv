@@ -18,7 +18,7 @@ c++
 -----------------------------------------------------------------------------------------------------------------------------
 
 <p align="left">
-<img width="450" height="300" src="https://github.com/Omegapy/Unreal-Projects-GameDevTv/assets/121726699/936e5aa7-4460-4919-845d-ad1a5362e93f">
+<img width="500" height="300" src="https://github.com/Omegapy/Unreal-Projects-GameDevTv/assets/121726699/936e5aa7-4460-4919-845d-ad1a5362e93f">
 </p>
 
 Project description:  
