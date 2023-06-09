@@ -18,7 +18,7 @@ c++
 -----------------------------------------------------------------------------------------------------------------------------
 
 <p align="left">
-<img width="300" height="300" src="https://github.com/Omegapy/Unreal-Projects-GameDevTv/assets/121726699/86bce14b-e178-4793-8b8c-0f4790b8c19c">
+<img width="500" height="300" src="https://github.com/Omegapy/Unreal-Projects-GameDevTv/assets/121726699/958a81d0-141d-4d45-a119-3df3778459ce">
 </p>
 
 Project description:  
@@ -41,6 +41,10 @@ Learnt:
 - Line Tracing and Collisions  
 - While, For Loops and Arrays  
 - Calling C++ functions from Blueprint  
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Youtube Game Preview: https://www.youtube.com/watch?v=HILQuKdiKYs&t=69s
 
 -----------------------------------------------------------------------------------------------------------------------------
 Credits:
