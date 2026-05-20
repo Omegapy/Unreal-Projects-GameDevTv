@@ -61,8 +61,6 @@ My extras:
 - Added background noise and music  
 - Added in viewport Info
 
-Youtube Project Preview: https://www.youtube.com/watch?v=1McJ2rnIUjU&t=4s
-
 -----------------------------------------------------------------------------------------------------------------------------
 3-Crypt Raider Section
 -----------------------------------------------------------------------------------------------------------------------------
@@ -91,8 +89,6 @@ Learnt:
 <p align="left">
 <img width="500" height="300" src="https://github.com/Omegapy/Unreal-Projects-GameDevTv/assets/121726699/958a81d0-141d-4d45-a119-3df3778459ce">
 </p>
-
-Youtube Game Preview: https://www.youtube.com/watch?v=HILQuKdiKYs&t=69s
 
 -----------------------------------------------------------------------------------------------------------------------------
 2-Obstacle Assault Section
